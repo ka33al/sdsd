@@ -2,8 +2,9 @@
 *{font-family:'Blinker', sans-serif;}
 body{
     width: 80%;
-    margin: 50px auto;
+    margin: 100px auto;
     display: flex;
+    
 
 }
 .img{
@@ -30,4 +31,9 @@ ul{
 }
 h1{
     margin:10px;
+}
+.rigth{
+    width: 500px;
+    background-color: tan;
+    border-radius: 5px;
 }
