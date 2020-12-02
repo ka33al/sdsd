@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Blinker:wght@100;400&display=swap');
+*{font-family:'Blinker', sans-serif;}
+body{
+    width: 80%;
+    margin: 50px auto;
+    display: flex;
+
+}
+.img{
+    
+    background-image: url("/img1.jpeg");
+    width: 200px;
+    height: 250px;
+    border: 2px solid;
+    background-position:center;
+    background-repeat: no-repeat;
+    background-size: 200px;
+    margin:20px auto;
+}
+.left{
+    width: 250px;
+    background-color: teal;
+    align-items: center;
+    border-radius: 5px;
+}
+ul{
+    border-top: 1px solid #ffffff;
+    margin:auto;
+
+}
+h1{
+    margin:10px;
+}
